@@ -1,5 +1,3 @@
----
-
 ## Table of Contents
 
 - [Features](#features)
@@ -9,15 +7,11 @@
 - [License](#license)
 - [Contact](#contact)
 
----
-
 ## Features
 
 - **Feature 1:** A brief description of what this feature does and its benefits.
 - **Feature 2:** A brief description of what this feature does and its benefits.
 - **Feature 3:** A brief description of what this feature does and its benefits.
-
----
 
 ## Installation
 
