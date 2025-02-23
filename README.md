@@ -1,3 +1,6 @@
+```markdown
+# Project Title
+
 **A concise and informative description of your project.**  
 Explain the purpose of the project, its significance, and what problems it aims to solve.
 
